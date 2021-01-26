@@ -71,7 +71,7 @@
 .select {
     -webkit-appearance: none;
     -moz-appearance: none;
-    background-image: url(../svg/form-arrows.svg);
+    background-image: url(../popup/svg/form-arrows.svg);
     background-repeat: no-repeat;
     background-position: right 10px center;
     background-size: 10px;
